@@ -1,5 +1,6 @@
 {
   "name": "kafe",
+  "type": "module",
   "private": true,
   "workspaces": [
     "apps/*",
@@ -12,7 +13,12 @@
     "dev:native": "bun run --filter native dev",
     "dev:web": "bun run --filter web dev",
     "dev:server": "bun run --filter @kafe/backend dev",
-    "dev:setup": "bun run --filter @kafe/backend dev:setup"
+    "dev:setup": "bun run --filter @kafe/backend dev:setup",
+    "seed:export": "node scripts/export-seed-data.js",
+    "seed:import": "node scripts/import-seed-data.js",
+    "seed:import:fresh": "node scripts/import-seed-data.js --clear",
+    "data:check": "node scripts/check-data.js",
+    "transit:import": "node scripts/import-transit-data.js"
   },
   "packageManager": "bun@1.1.29"
 }

@@ -1,0 +1,16 @@
+{
+  "exportedAt": "2025-08-05T13:05:50.368Z",
+  "totalStops": 257,
+  "breakdown": {
+    "cities": [
+      "Melbourne",
+      "Perth"
+    ],
+    "types": [
+      "train",
+      "tram"
+    ],
+    "lines": 25
+  },
+  "description": "Complete Melbourne and Perth transit stops data including train lines and tram routes"
+}

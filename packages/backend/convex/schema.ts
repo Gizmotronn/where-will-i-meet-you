@@ -10,9 +10,16 @@ export default defineSchema({
   stops: defineTable({
     name: v.string(),
     type: v.union(v.literal("train"), v.literal("tram")),
-    line: v.string(),
-    index: v.number(),
-    code: v.optional(v.string()),
+    city: v.string(), // Melbourne, Perth, etc.
+    line: v.string(), // Line name (e.g., "Alamein", "Fremantle")
+    distanceFromCity: v.number(), // Distance from city center in km
+    zone: v.optional(v.number()), // Transit zone
+    coordinates: v.optional(v.object({
+      lat: v.number(),
+      lng: v.number(),
+    })),
+    accessibility: v.optional(v.boolean()), // Wheelchair accessible
+    code: v.optional(v.string()), // Stop code if available
   }),
   
   cafes: defineTable({

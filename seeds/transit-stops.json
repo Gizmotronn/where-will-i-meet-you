@@ -1,0 +1,3343 @@
+[
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Alamein",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "Alamein",
+    "name": "Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.6,
+    "line": "Alamein",
+    "name": "East Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.8,
+    "line": "Alamein",
+    "name": "Burnley",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.5,
+    "line": "Alamein",
+    "name": "Hawthorn",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.2,
+    "line": "Alamein",
+    "name": "Glenferrie",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.1,
+    "line": "Alamein",
+    "name": "Auburn",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12,
+    "line": "Alamein",
+    "name": "Camberwell",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 13.4,
+    "line": "Alamein",
+    "name": "East Camberwell",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 15.1,
+    "line": "Alamein",
+    "name": "Riversdale",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 16.8,
+    "line": "Alamein",
+    "name": "Willison",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 18.5,
+    "line": "Alamein",
+    "name": "Alamein",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Belgrave",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "Belgrave",
+    "name": "Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.6,
+    "line": "Belgrave",
+    "name": "East Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.8,
+    "line": "Belgrave",
+    "name": "Burnley",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.5,
+    "line": "Belgrave",
+    "name": "Hawthorn",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.2,
+    "line": "Belgrave",
+    "name": "Glenferrie",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Craigieburn",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "Craigieburn",
+    "name": "Parliament",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.2,
+    "line": "Craigieburn",
+    "name": "Melbourne Central",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.8,
+    "line": "Craigieburn",
+    "name": "Flagstaff",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.2,
+    "line": "Craigieburn",
+    "name": "North Melbourne",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.1,
+    "line": "Craigieburn",
+    "name": "Kensington",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Cranbourne",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "Cranbourne",
+    "name": "Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.2,
+    "line": "Cranbourne",
+    "name": "South Yarra",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.8,
+    "line": "Cranbourne",
+    "name": "Hawksburn",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.1,
+    "line": "Cranbourne",
+    "name": "Toorak",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.9,
+    "line": "Cranbourne",
+    "name": "Armadale",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Frankston",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "Frankston",
+    "name": "Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.2,
+    "line": "Frankston",
+    "name": "South Yarra",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.1,
+    "line": "Frankston",
+    "name": "Prahran",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.8,
+    "line": "Frankston",
+    "name": "Windsor",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.2,
+    "line": "Frankston",
+    "name": "Balaclava",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Glen Waverley",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "Glen Waverley",
+    "name": "Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.6,
+    "line": "Glen Waverley",
+    "name": "East Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.8,
+    "line": "Glen Waverley",
+    "name": "Burnley",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.1,
+    "line": "Glen Waverley",
+    "name": "Heyington",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.8,
+    "line": "Glen Waverley",
+    "name": "Kooyong",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 9.2,
+    "line": "Glen Waverley",
+    "name": "Tooronga",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.8,
+    "line": "Glen Waverley",
+    "name": "Gardiner",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.5,
+    "line": "Glen Waverley",
+    "name": "Glen Iris",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 14.1,
+    "line": "Glen Waverley",
+    "name": "Darling",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 15.8,
+    "line": "Glen Waverley",
+    "name": "East Malvern",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 17.2,
+    "line": "Glen Waverley",
+    "name": "Holmesglen",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 18.9,
+    "line": "Glen Waverley",
+    "name": "Jordanville",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 20.8,
+    "line": "Glen Waverley",
+    "name": "Glen Waverley",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Hurstbridge",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "Hurstbridge",
+    "name": "Parliament",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.2,
+    "line": "Hurstbridge",
+    "name": "Melbourne Central",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.8,
+    "line": "Hurstbridge",
+    "name": "Flagstaff",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.2,
+    "line": "Hurstbridge",
+    "name": "North Melbourne",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.1,
+    "line": "Hurstbridge",
+    "name": "Kensington",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Lilydale",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "Lilydale",
+    "name": "Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.6,
+    "line": "Lilydale",
+    "name": "East Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.8,
+    "line": "Lilydale",
+    "name": "Burnley",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.5,
+    "line": "Lilydale",
+    "name": "Hawthorn",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.2,
+    "line": "Lilydale",
+    "name": "Glenferrie",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Mernda",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "Mernda",
+    "name": "Parliament",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.2,
+    "line": "Mernda",
+    "name": "Melbourne Central",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.8,
+    "line": "Mernda",
+    "name": "Flagstaff",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.2,
+    "line": "Mernda",
+    "name": "North Melbourne",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.1,
+    "line": "Mernda",
+    "name": "Kensington",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Pakenham",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "Pakenham",
+    "name": "Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.2,
+    "line": "Pakenham",
+    "name": "South Yarra",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.8,
+    "line": "Pakenham",
+    "name": "Hawksburn",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.1,
+    "line": "Pakenham",
+    "name": "Toorak",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.9,
+    "line": "Pakenham",
+    "name": "Armadale",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Sandringham",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "Sandringham",
+    "name": "Richmond",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.2,
+    "line": "Sandringham",
+    "name": "South Yarra",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.1,
+    "line": "Sandringham",
+    "name": "Prahran",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.8,
+    "line": "Sandringham",
+    "name": "Windsor",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.2,
+    "line": "Sandringham",
+    "name": "Balaclava",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Sunbury",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "Sunbury",
+    "name": "Southern Cross",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.2,
+    "line": "Sunbury",
+    "name": "North Melbourne",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.1,
+    "line": "Sunbury",
+    "name": "Kensington",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.8,
+    "line": "Sunbury",
+    "name": "Newmarket",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.2,
+    "line": "Sunbury",
+    "name": "Ascot Vale",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Upfield",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "Upfield",
+    "name": "Southern Cross",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.2,
+    "line": "Upfield",
+    "name": "North Melbourne",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.8,
+    "line": "Upfield",
+    "name": "Macaulay",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.2,
+    "line": "Upfield",
+    "name": "Flemington Bridge",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.8,
+    "line": "Upfield",
+    "name": "Royal Park",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Werribee",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "Werribee",
+    "name": "Southern Cross",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.2,
+    "line": "Werribee",
+    "name": "North Melbourne",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.8,
+    "line": "Werribee",
+    "name": "Footscray",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.9,
+    "line": "Werribee",
+    "name": "Seddon",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.2,
+    "line": "Werribee",
+    "name": "Yarraville",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Williamstown",
+    "name": "Flinders Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "Williamstown",
+    "name": "Southern Cross",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.2,
+    "line": "Williamstown",
+    "name": "North Melbourne",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.1,
+    "line": "Williamstown",
+    "name": "Kensington",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.8,
+    "line": "Williamstown",
+    "name": "Newmarket",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.2,
+    "line": "Williamstown",
+    "name": "Ascot Vale",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.9,
+    "line": "Williamstown",
+    "name": "Moonee Ponds",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 11.2,
+    "line": "Williamstown",
+    "name": "Essendon",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.8,
+    "line": "Williamstown",
+    "name": "Glenbervie",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 14.5,
+    "line": "Williamstown",
+    "name": "Strathmore",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 16.8,
+    "line": "Williamstown",
+    "name": "Pascoe Vale",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 18.9,
+    "line": "Williamstown",
+    "name": "Oak Park",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 21.2,
+    "line": "Williamstown",
+    "name": "Broadmeadows",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "109",
+    "name": "Southern Cross Station",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.5,
+    "line": "109",
+    "name": "Spencer Street/Collins Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "109",
+    "name": "Collins Street/King Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.2,
+    "line": "109",
+    "name": "Collins Street/Elizabeth Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.8,
+    "line": "109",
+    "name": "Collins Street/Swanston Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.8,
+    "line": "109",
+    "name": "Southbank/City Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.5,
+    "line": "109",
+    "name": "Collins Street/Russell Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.2,
+    "line": "109",
+    "name": "South Melbourne",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.8,
+    "line": "109",
+    "name": "Victoria Parade/Russell Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.1,
+    "line": "109",
+    "name": "St Vincent's Plaza",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.1,
+    "line": "109",
+    "name": "Middle Park",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.2,
+    "line": "109",
+    "name": "Victoria Parade/Nicholson Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.8,
+    "line": "109",
+    "name": "Victoria Street/Hoddle Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.3,
+    "line": "109",
+    "name": "Barkers Road/Studley Park Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.3,
+    "line": "109",
+    "name": "Port Melbourne",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 9.1,
+    "line": "109",
+    "name": "High Street/Willsmere Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.2,
+    "line": "109",
+    "name": "Kew Junction",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 11.5,
+    "line": "109",
+    "name": "Cotham Road/High Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.8,
+    "line": "109",
+    "name": "Burke Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 14.1,
+    "line": "109",
+    "name": "Union Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 15.2,
+    "line": "109",
+    "name": "Surrey Hills",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 16.8,
+    "line": "109",
+    "name": "Mont Albert",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 18.5,
+    "line": "109",
+    "name": "Whitehorse Road/Station Street",
+    "type": "tram",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 19.3,
+    "line": "109",
+    "name": "Box Hill",
+    "type": "tram",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "48",
+    "name": "Victoria Harbour",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.2,
+    "line": "48",
+    "name": "Collins Street/King Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.5,
+    "line": "48",
+    "name": "Collins Street/Elizabeth Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.8,
+    "line": "48",
+    "name": "Collins Street/Swanston Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.2,
+    "line": "48",
+    "name": "Collins Street/Spring Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.5,
+    "line": "48",
+    "name": "Flinders Street/Spring Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.8,
+    "line": "48",
+    "name": "Bridge Road/Punt Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.5,
+    "line": "48",
+    "name": "Richmond/Swan Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.8,
+    "line": "48",
+    "name": "Bridge Road/Church Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.9,
+    "line": "48",
+    "name": "Hawthorn Bridge",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.8,
+    "line": "48",
+    "name": "Barkers Road/Church Street",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.5,
+    "line": "48",
+    "name": "Kew Cemetery",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.3,
+    "line": "48",
+    "name": "High Street/Cotham Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 9.1,
+    "line": "48",
+    "name": "Harp Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.2,
+    "line": "48",
+    "name": "Kew East",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 11.5,
+    "line": "48",
+    "name": "Burke Road/Doncaster Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.8,
+    "line": "48",
+    "name": "Bulleen Road",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Melbourne",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 13.5,
+    "line": "48",
+    "name": "North Balwyn",
+    "type": "tram",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.7,
+    "line": "Airport",
+    "name": "Bayswater",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.7,
+    "line": "Airport",
+    "name": "Redcliffe",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 13.4,
+    "line": "Airport",
+    "name": "Airport Central",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 15.8,
+    "line": "Airport",
+    "name": "High Wycombe",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Armadale",
+    "name": "Perth",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.7,
+    "line": "Armadale",
+    "name": "McIver",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.3,
+    "line": "Armadale",
+    "name": "Claisebrook",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.3,
+    "line": "Armadale",
+    "name": "Perth Stadium",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.6,
+    "line": "Armadale",
+    "name": "Burswood",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.1,
+    "line": "Armadale",
+    "name": "Victoria Park",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.4,
+    "line": "Armadale",
+    "name": "Carlisle",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.1,
+    "line": "Armadale",
+    "name": "Oats Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 11.3,
+    "line": "Armadale",
+    "name": "Queens Park",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.2,
+    "line": "Armadale",
+    "name": "Cannington",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 13.6,
+    "line": "Armadale",
+    "name": "Beckenham",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 15.6,
+    "line": "Armadale",
+    "name": "Kenwick",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 17.6,
+    "line": "Armadale",
+    "name": "Maddington",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 20.7,
+    "line": "Armadale",
+    "name": "Gosnells",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 22.6,
+    "line": "Armadale",
+    "name": "Seaforth",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 25.8,
+    "line": "Armadale",
+    "name": "Kelmscott",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 27.3,
+    "line": "Armadale",
+    "name": "Challis",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 28.6,
+    "line": "Armadale",
+    "name": "Sherwood",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 30.4,
+    "line": "Armadale",
+    "name": "Armadale",
+    "type": "train",
+    "zone": 4
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.7,
+    "line": "Ellenbrook",
+    "name": "Bayswater",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.3,
+    "line": "Ellenbrook",
+    "name": "Morley",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.8,
+    "line": "Ellenbrook",
+    "name": "Noranda",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 15.9,
+    "line": "Ellenbrook",
+    "name": "Bassendean North",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 21.6,
+    "line": "Ellenbrook",
+    "name": "Whiteman Park",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 27.9,
+    "line": "Ellenbrook",
+    "name": "Ellenbrook",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Fremantle",
+    "name": "Perth",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.7,
+    "line": "Fremantle",
+    "name": "McIver",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.7,
+    "line": "Fremantle",
+    "name": "West Leederville",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.6,
+    "line": "Fremantle",
+    "name": "Subiaco",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.9,
+    "line": "Fremantle",
+    "name": "Daglish",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6,
+    "line": "Fremantle",
+    "name": "Shenton Park",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.6,
+    "line": "Fremantle",
+    "name": "Karrakatta",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8,
+    "line": "Fremantle",
+    "name": "Loch Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 9.4,
+    "line": "Fremantle",
+    "name": "Claremont",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.5,
+    "line": "Fremantle",
+    "name": "Swanbourne",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 11.2,
+    "line": "Fremantle",
+    "name": "Grant Street",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.4,
+    "line": "Fremantle",
+    "name": "Cottesloe",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 13.6,
+    "line": "Fremantle",
+    "name": "Mosman Park",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 14.2,
+    "line": "Fremantle",
+    "name": "Victoria Street",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 16.1,
+    "line": "Fremantle",
+    "name": "North Fremantle",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 19,
+    "line": "Fremantle",
+    "name": "Fremantle",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Mandurah",
+    "name": "Perth Underground",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.6,
+    "line": "Mandurah",
+    "name": "Elizabeth Quay",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.2,
+    "line": "Mandurah",
+    "name": "Canning Bridge",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 11.7,
+    "line": "Mandurah",
+    "name": "Bull Creek",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 13.9,
+    "line": "Mandurah",
+    "name": "Murdoch",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 20.5,
+    "line": "Mandurah",
+    "name": "Cockburn Central",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 23.8,
+    "line": "Mandurah",
+    "name": "Aubin Grove",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 32.9,
+    "line": "Mandurah",
+    "name": "Kwinana",
+    "type": "train",
+    "zone": 4
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 37.1,
+    "line": "Mandurah",
+    "name": "Wellard",
+    "type": "train",
+    "zone": 4
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 43.2,
+    "line": "Mandurah",
+    "name": "Rockingham",
+    "type": "train",
+    "zone": 5
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 47.5,
+    "line": "Mandurah",
+    "name": "Warnbro",
+    "type": "train",
+    "zone": 5
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 64.5,
+    "line": "Mandurah",
+    "name": "Lakelands",
+    "type": "train",
+    "zone": 7
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 70.8,
+    "line": "Mandurah",
+    "name": "Mandurah",
+    "type": "train",
+    "zone": 7
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Midland",
+    "name": "Perth",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.7,
+    "line": "Midland",
+    "name": "McIver",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.3,
+    "line": "Midland",
+    "name": "Claisebrook",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.1,
+    "line": "Midland",
+    "name": "East Perth",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.2,
+    "line": "Midland",
+    "name": "Mount Lawley",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.5,
+    "line": "Midland",
+    "name": "Maylands",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.5,
+    "line": "Midland",
+    "name": "Meltham",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.7,
+    "line": "Midland",
+    "name": "Bayswater",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 9.3,
+    "line": "Midland",
+    "name": "Ashfield",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 10.8,
+    "line": "Midland",
+    "name": "Bassendean",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 11.7,
+    "line": "Midland",
+    "name": "Success Hill",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.6,
+    "line": "Midland",
+    "name": "Guildford",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 14.1,
+    "line": "Midland",
+    "name": "East Guildford",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 15.4,
+    "line": "Midland",
+    "name": "Woodbridge",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 16.1,
+    "line": "Midland",
+    "name": "Midland",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Thornlie-Cockburn",
+    "name": "Perth",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.7,
+    "line": "Thornlie-Cockburn",
+    "name": "McIver",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 1.3,
+    "line": "Thornlie-Cockburn",
+    "name": "Claisebrook",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 3.3,
+    "line": "Thornlie-Cockburn",
+    "name": "Perth Stadium",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 4.6,
+    "line": "Thornlie-Cockburn",
+    "name": "Burswood",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 6.1,
+    "line": "Thornlie-Cockburn",
+    "name": "Victoria Park",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 7.4,
+    "line": "Thornlie-Cockburn",
+    "name": "Carlisle",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.1,
+    "line": "Thornlie-Cockburn",
+    "name": "Oats Street",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 11.3,
+    "line": "Thornlie-Cockburn",
+    "name": "Queens Park",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 12.2,
+    "line": "Thornlie-Cockburn",
+    "name": "Cannington",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 13.6,
+    "line": "Thornlie-Cockburn",
+    "name": "Beckenham",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 17,
+    "line": "Thornlie-Cockburn",
+    "name": "Thornlie",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 20.3,
+    "line": "Thornlie-Cockburn",
+    "name": "Nicholson Road",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 20.5,
+    "line": "Thornlie-Cockburn",
+    "name": "Cockburn Central",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 23.2,
+    "line": "Thornlie-Cockburn",
+    "name": "Ranford Road",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0,
+    "line": "Yanchep",
+    "name": "Perth Underground",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 0.6,
+    "line": "Yanchep",
+    "name": "Elizabeth Quay",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 2.4,
+    "line": "Yanchep",
+    "name": "Leederville",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 5.6,
+    "line": "Yanchep",
+    "name": "Glendalough",
+    "type": "train",
+    "zone": 1
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 8.8,
+    "line": "Yanchep",
+    "name": "Stirling",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 14.5,
+    "line": "Yanchep",
+    "name": "Warwick",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 17.7,
+    "line": "Yanchep",
+    "name": "Greenwood",
+    "type": "train",
+    "zone": 2
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 19.8,
+    "line": "Yanchep",
+    "name": "Whitfords",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 22.9,
+    "line": "Yanchep",
+    "name": "Edgewater",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 26.2,
+    "line": "Yanchep",
+    "name": "Joondalup",
+    "type": "train",
+    "zone": 3
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 29.2,
+    "line": "Yanchep",
+    "name": "Currambine",
+    "type": "train",
+    "zone": 4
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 33.2,
+    "line": "Yanchep",
+    "name": "Clarkson",
+    "type": "train",
+    "zone": 4
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 40.7,
+    "line": "Yanchep",
+    "name": "Butler",
+    "type": "train",
+    "zone": 5
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 43.9,
+    "line": "Yanchep",
+    "name": "Alkimos",
+    "type": "train",
+    "zone": 5
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 46.7,
+    "line": "Yanchep",
+    "name": "Eglinton",
+    "type": "train",
+    "zone": 5
+  },
+  {
+    "accessibility": false,
+    "city": "Perth",
+    "coordinates": {
+      "lat": 0,
+      "lng": 0
+    },
+    "distanceFromCity": 54.5,
+    "line": "Yanchep",
+    "name": "Yanchep",
+    "type": "train",
+    "zone": 6
+  }
+]

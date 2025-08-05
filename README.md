@@ -66,14 +66,39 @@ make down
 
 Once your development environment is running, you can populate the database with real Melbourne and Perth transit data:
 
+**Option 1: Import from seed data (Recommended)**
 ```bash
-./scripts/setup-transit.sh
+bun run seed:import
 ```
 
-This will import 300+ real transit stops including:
-- Melbourne train stations (Alamein, Williamstown, Glen Waverley lines + first 6 stations of other lines)
-- Perth Transperth metro stations (all lines)
-- Melbourne tram routes 109 and 48
+**Option 2: Fresh import from scratch**
+```bash
+bun run transit:import
+```
+
+The seed data includes 257 real transit stops:
+- **Melbourne Trains**: Complete lines (Alamein, Williamstown, Glen Waverley) + first 6 stations of 14 other lines
+- **Perth Transperth**: All metro lines (Fremantle, Midland, Armadale, Yanchep, Mandurah, Airport, Ellenbrook, Thornlie-Cockburn)
+- **Melbourne Trams**: Routes 109 (Box Hill to Port Melbourne) and 48 (North Balwyn to Victoria Harbour)
+
+## Data Management
+
+**Check current data:**
+```bash
+bun run data:check
+```
+
+**Export current data to seed files:**
+```bash
+bun run seed:export
+```
+
+**Import fresh (clears existing data):**
+```bash
+bun run seed:import:fresh
+```
+
+The seed data is stored in `seeds/transit-stops.json` and is version-controlled, ensuring consistent data across environments.
 
 
 
@@ -99,6 +124,14 @@ kafe/
 - `bun dev:setup`: Setup and configure your Convex project
 - `bun check-types`: Check TypeScript types across all apps
 - `cd apps/web && bun generate-pwa-assets`: Generate PWA assets
+
+### Data Management Scripts
+
+- `bun run seed:import`: Import transit data from seed files
+- `bun run seed:export`: Export current database data to seed files
+- `bun run seed:import:fresh`: Fresh import (clears existing data first)
+- `bun run data:check`: Check current database contents
+- `bun run transit:import`: Import transit data from web sources
 
 ## Troubleshooting
 

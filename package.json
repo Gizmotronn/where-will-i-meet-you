@@ -7,18 +7,18 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "bun run --filter '*' dev",
-    "build": "bun run --filter '*' build",
-    "check-types": "bun run --filter '*' check-types",
-    "dev:native": "bun run --filter native dev",
-    "dev:web": "bun run --filter web dev",
-    "dev:server": "bun run --filter @kafe/backend dev",
-    "dev:setup": "bun run --filter @kafe/backend dev:setup",
-    "seed:export": "node scripts/export-seed-data.js",
-    "seed:import": "node scripts/import-seed-data.js",
-    "seed:import:fresh": "node scripts/import-seed-data.js --clear",
-    "data:check": "node scripts/check-data.js",
-    "transit:import": "node scripts/import-transit-data.js"
+    "dev": "make up",
+    "build": "make build",
+    "seed:import": "npx tsx scripts/import-seed-data.ts",
+    "seed:export": "npx tsx scripts/export-seed-data.ts",
+    "seed:import:fresh": "npx tsx scripts/import-seed-data.ts --clear",
+    "data:check": "npx tsx scripts/check-data.ts",
+    "transit:import": "npx tsx scripts/import-transit-data.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
   },
   "packageManager": "bun@1.1.29"
 }

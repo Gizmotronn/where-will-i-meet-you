@@ -1,6 +1,41 @@
 # kafe
 
-This project was created with [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack), a modern TypeScript stack that combines React, TanStack Router, Convex, and more.
+This project was created with [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack), a## 🔧 Data Management Scripts
+
+All scripts are written in TypeScript for better type safety and developer experience:
+
+- **`scripts/import-transit-data.ts`**: Import comprehensive transit data from hardcoded sources
+- **`scripts/import-seed-data.ts`**: Import from version-controlled seed files  
+- **`scripts/export-seed-data.ts`**: Export current database to seed files
+- **`scripts/check-data.ts`**: Verify and display current database contents
+- **`scripts/setup-transit.sh`**: One-command setup (uses seed data if available, falls back to web import)
+
+### Available Commands
+
+```bash
+# Data verification
+bun run data:check           # Check current database contents
+
+# Seed data management  
+bun run seed:export          # Export current data to seeds/
+bun run seed:import          # Import from seed files (preserves existing data)
+bun run seed:import:fresh    # Import from seed files (clears database first)
+
+# Direct data import
+bun run transit:import       # Import fresh data from hardcoded sources
+
+# Quick setup
+./scripts/setup-transit.sh   # Smart setup (seed import or fresh import + export)
+```
+
+### Seed Data System
+
+The project uses a **version-controlled seed data system** to ensure consistent transit data across all environments:
+
+- **`seeds/transit-stops.json`**: Complete transit stops data (257 stops)
+- **`seeds/transit-stops-metadata.json`**: Export metadata and descriptions
+- **Automatic deduplication**: Import scripts handle existing data gracefully
+- **Git persistence**: All data changes are tracked in version controltack that combines React, TanStack Router, Convex, and more.
 
 ## Features
 

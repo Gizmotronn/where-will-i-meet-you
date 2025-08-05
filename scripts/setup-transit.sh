@@ -1,6 +1,16 @@
 #!/bin/bash
 
-# Setup script for populating transit data
+# Setup s# Check if seed data exists
+if [ -f "seeds/transit-stops.json" ]; then
+    echo "🌱 Found existing seed data"
+    echo "🌱 Importing from seed files..."
+    bun run seed:import
+else
+    echo "📡 No seed data found, importing from web sources..."
+    bun run transit:import
+    echo "💾 Exporting to seed files for future use..."
+    bun run seed:export
+fiopulating transit data
 
 echo "🚀 Setting up transit data..."
 

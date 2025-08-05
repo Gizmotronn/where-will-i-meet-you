@@ -6,15 +6,25 @@
  * - Perth: All Transperth metro lines
  * - Melbourne: Tram routes 109 and 48 with major stops
  * 
- * Run with: node scripts/import-transit-data.js
+ * Run with: npx tsx scripts/import-transit-data.ts
  */
 
 import { ConvexHttpClient } from "convex/browser";
+import { api } from "../packages/backend/convex/_generated/api";
+
+interface TransitStop {
+  name: string;
+  type: "train" | "tram";
+  city: string;
+  line: string;
+  distanceFromCity: number;
+  zone: number;
+}
 
 const client = new ConvexHttpClient(process.env.VITE_CONVEX_URL || "http://127.0.0.1:3210");
 
 // Melbourne Train Data - Complete lines + first 6 stations of others
-const melbourneTrainData = [
+const melbourneTrainData: TransitStop[] = [
   // ALAMEIN LINE (Complete - 12 stations)
   { name: "Flinders Street", type: "train", city: "Melbourne", line: "Alamein", distanceFromCity: 0, zone: 1 },
   { name: "Richmond", type: "train", city: "Melbourne", line: "Alamein", distanceFromCity: 2.8, zone: 1 },
@@ -159,7 +169,7 @@ const melbourneTrainData = [
 ];
 
 // Perth Transperth Data - All lines and stations
-const perthTransperthData = [
+const perthTransperthData: TransitStop[] = [
   // FREMANTLE LINE (17 stations)
   { name: "Perth", type: "train", city: "Perth", line: "Fremantle", distanceFromCity: 0, zone: 1 },
   { name: "McIver", type: "train", city: "Perth", line: "Fremantle", distanceFromCity: 0.7, zone: 1 },
@@ -282,7 +292,7 @@ const perthTransperthData = [
 ];
 
 // Melbourne Tram Route 109 (Major stops - Box Hill to Port Melbourne)
-const melbourneTram109Data = [
+const melbourneTram109Data: TransitStop[] = [
   // Route 109: Box Hill to Port Melbourne (West to East ordering)
   { name: "Box Hill", type: "tram", city: "Melbourne", line: "109", distanceFromCity: 19.3, zone: 2 },
   { name: "Whitehorse Road/Station Street", type: "tram", city: "Melbourne", line: "109", distanceFromCity: 18.5, zone: 2 },
@@ -311,7 +321,7 @@ const melbourneTram109Data = [
 ];
 
 // Melbourne Tram Route 48 (Major stops - North Balwyn to Victoria Harbour)
-const melbourneTram48Data = [
+const melbourneTram48Data: TransitStop[] = [
   // Route 48: North Balwyn to Victoria Harbour (East to West ordering)
   { name: "North Balwyn", type: "tram", city: "Melbourne", line: "48", distanceFromCity: 13.5, zone: 1 },
   { name: "Bulleen Road", type: "tram", city: "Melbourne", line: "48", distanceFromCity: 12.8, zone: 1 },
@@ -333,11 +343,11 @@ const melbourneTram48Data = [
   { name: "Victoria Harbour", type: "tram", city: "Melbourne", line: "48", distanceFromCity: 0, zone: 1 },
 ];
 
-async function importTransitData() {
+async function importTransitData(): Promise<void> {
   console.log("Starting transit data import...");
   
   // Combine all transit data
-  const allTransitData = [
+  const allTransitData: TransitStop[] = [
     ...melbourneTrainData,
     ...perthTransperthData,
     ...melbourneTram109Data,
@@ -358,7 +368,7 @@ async function importTransitData() {
     // Import each stop in the batch
     for (const stop of batch) {
       try {
-        await client.mutation("stops:create", {
+        await client.mutation(api.stops.create, {
           name: stop.name,
           type: stop.type,
           city: stop.city,

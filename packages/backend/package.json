@@ -1,0 +1,19 @@
+{
+  "name": "@kafe/backend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node setup.js",
+    "dev:setup": "node setup.js",
+    "configure": "convex dev --configure"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@convex-dev/auth": "^0.0.87",
+    "convex": "^1.25.0"
+  }
+}

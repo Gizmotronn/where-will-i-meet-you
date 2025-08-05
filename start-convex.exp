@@ -1,0 +1,29 @@
+#!/usr/bin/expect -f
+
+set timeout 30
+cd /Users/scroobz/Documents/FromScroobles/kafe/packages/backend
+
+spawn npx convex dev
+
+expect {
+    "Upgrade now?" {
+        send "Y\r"
+        exp_continue
+    }
+    "✓ Functions ready!" {
+        # Server is ready, keep running
+        interact
+    }
+    "Connected to" {
+        # Alternative success message
+        interact
+    }
+    timeout {
+        puts "Timeout waiting for Convex to start"
+        exit 1
+    }
+    eof {
+        puts "Convex process ended unexpectedly"
+        exit 1
+    }
+}
